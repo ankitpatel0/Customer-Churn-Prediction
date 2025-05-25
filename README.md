@@ -77,9 +77,6 @@ Customer-Churn-Prediction/
 
 Contributions are welcome! If you have suggestions for improvements or want to contribute to the project, please fork the repository and submit a pull request.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
