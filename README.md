@@ -65,20 +65,25 @@ The dataset used is the **Telco Customer Churn** dataset from Kaggle:
 1. **Clone the Repository**:
 ```bash
 git clone https://github.com/ankitpatel0/Customer-Churn-Prediction.git
+
 cd Customer-Churn-Prediction
+
 Install Dependencies:
 
 bash
 pip install -r requirements.txt
+
 If requirements.txt is not present, install manually:
 
 bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
 Launch Jupyter Notebook:
 
 bash
 
 jupyter notebook
+
 Run the Notebook:
 Open Customer_Churn_Prediction_using_ML.ipynb and run all cells step-by-step.
 
