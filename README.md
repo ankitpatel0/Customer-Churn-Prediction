@@ -69,20 +69,15 @@ cd Customer-Churn-Prediction
 Install Dependencies:
 
 bash
-Copy
-Edit
 pip install -r requirements.txt
 If requirements.txt is not present, install manually:
 
 bash
-Copy
-Edit
 pip install pandas numpy matplotlib seaborn scikit-learn
 Launch Jupyter Notebook:
 
 bash
-Copy
-Edit
+
 jupyter notebook
 Run the Notebook:
 Open Customer_Churn_Prediction_using_ML.ipynb and run all cells step-by-step.
