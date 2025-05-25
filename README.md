@@ -82,3 +82,4 @@ Contributions are welcome! If you have suggestions for improvements or want to c
 
 - **Name**: Ankit Patel
 - **GitHub**: [ankitpatel0](https://github.com/ankitpatel0)
+- **Email**: ankitpatel1531@gmail.com
