@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction
+#  Customer Churn Prediction
 
 Predicting customer churn in the telecom industry using machine learning techniques. This project analyzes customer data to identify those likely to discontinue services, allowing businesses to take preventive action and improve customer retention.
 
@@ -113,5 +113,5 @@ This project is licensed under the MIT License.
 
 📬 Contact
 Created by Ankit Patel
-📧 ankitpatel@example.com (replace with your actual email)
-🔗 GitHub Profile
+📧 ankitpatel531@gmail.com
+🔗 GitHub Profile https://github.com/ankitpatel0
