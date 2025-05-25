@@ -1,11 +1,11 @@
 
-# 📉 Customer Churn Prediction
+#  Customer Churn Prediction
 
-## 📌 Overview
+##  Overview
 
 The Customer Churn Prediction project aims to identify customers who are likely to discontinue a service, enabling proactive retention strategies. By analyzing customer data and leveraging machine learning algorithms, the model predicts churn with high accuracy, assisting businesses in making informed decisions.
 
-## 🚀 Features
+##  Features
 
 - **Data Preprocessing**: Handling missing values, encoding categorical variables, and scaling numerical features.
 - **Exploratory Data Analysis (EDA)**: Visualizing data distributions and relationships to uncover insights.
@@ -13,7 +13,7 @@ The Customer Churn Prediction project aims to identify customers who are likely 
 - **Model Evaluation**: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.
 - **Model Deployment**: Saving the best-performing model for future predictions.
 
-## 🛠️ Technologies Used
+##   Technologies Used
 
 - **Programming Language**: Python
 - **Libraries**:
@@ -30,7 +30,7 @@ The Customer Churn Prediction project aims to identify customers who are likely 
   - Support Vector Machine (SVM)
   - K-Nearest Neighbors (KNN)
 
-## 📂 Installation & Usage
+##  Installation & Usage
 
 1. **Clone the Repository**:
    ```bash
@@ -52,7 +52,7 @@ The Customer Churn Prediction project aims to identify customers who are likely 
    - Load the saved model `customer_churn_model.pkl`
    - Use the model to predict churn on new customer data
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer-Churn-Prediction/
@@ -64,7 +64,7 @@ Customer-Churn-Prediction/
 └── README.md                                 # Project documentation
 ```
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 - **Accuracy**: Percentage of correct predictions.
 - **Precision**: Proportion of positive identifications that were actually correct.
@@ -73,12 +73,12 @@ Customer-Churn-Prediction/
 
 *Note: Specific metric values can be found in the Jupyter Notebook `Customer_Churn_Prediction_using_ML.ipynb`.*
 
-## 🤝 Contribution
+##  Contribution
 
 Contributions are welcome! If you have suggestions for improvements or want to contribute to the project, please fork the repository and submit a pull request.
 
 
-## 📬 Contact
+##  Contact
 
 - **Name**: Ankit Patel
 - **GitHub**: [ankitpatel0](https://github.com/ankitpatel0)
