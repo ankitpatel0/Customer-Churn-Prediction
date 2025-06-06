@@ -26,7 +26,7 @@ I:
 - Shared important findings: Summarized data nicely focusing on what matters.
 - Tailored messages: Adjusted my language to match the client's knowledge level.
 - Suggested actions: Gave specific advice on what to do next.
-![Email]()
+![Email](https://github.com/ankitpatel0/Customer-Churn-Prediction/blob/main/EMAIL.png)
 
 
 **Get Started:**
